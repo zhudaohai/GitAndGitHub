@@ -8,7 +8,9 @@ package cn.sh.hs;
  */
 public class GitMain {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         System.out.print("新创的一个开发项目！");
+
+        System.out.print("修改了项目111111111111");
     }
 }
