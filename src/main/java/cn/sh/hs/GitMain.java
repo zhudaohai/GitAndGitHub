@@ -14,5 +14,7 @@ public class GitMain {
         System.out.print("修改了项目111111111111");
 
         System.out.print("添加修改了222222222222222222");
+
+        System.out.print("创建了分支v2  333333333333333333333333");
     }
 }
