@@ -12,6 +12,8 @@ public class GitMain {
         System.out.print("新创的一个开发项目！1111111");
 
         System.out.print("22222223333333333333333444444444");
+        System.out.print("222222233333333333333355555");
+        System.out.print("666");
 
     }
 }
